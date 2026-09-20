@@ -1,2 +1,2 @@
-# swmc-c-12.5l
+# Project - Pac-Man
 Enclosed slim wall mount 12.5l pc case. 367x377x90
